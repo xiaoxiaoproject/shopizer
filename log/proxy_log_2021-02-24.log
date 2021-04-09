@@ -1,0 +1,43 @@
+09:04:22.084 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Success: main   ,executing request http://www.xiaohexia.cn/ ,response statusCode:200  ,request cost time:2906ms
+09:07:55.481 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Success: main   ,executing request http://www.xiaohexia.cn/ ,response statusCode:200  ,request cost time:1482ms
+09:09:37.094 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Success: main   ,executing request http://www.xiaohexia.cn/ ,response statusCode:200  ,request cost time:1185ms
+09:10:39.787 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Success: main   ,executing request http://www.data5u.com/ ,response statusCode:200  ,request cost time:140ms
+09:10:42.813 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Success: main   ,executing request http://www.ip3366.net/ ,response statusCode:200  ,request cost time:2747ms
+09:10:48.907 [INFO ] [main] [com.cv4j.proxy.ProxyManager] checkProxy http://202.109.157.59:9000, true
+09:10:51.869 [INFO ] [RxCachedThreadScheduler-3] [com.cv4j.proxy.ProxyManager] accept http://202.109.157.59:9000
+09:11:19.660 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Success: main   ,executing request https://list.proxylistplus.com/Fresh-HTTP-Proxy-List-1 ,response statusCode:200  ,request cost time:27792ms
+09:12:21.032 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Failure: main   ,executing request http://www.feilongip.com/ ,response statusCode:0  ,request cost time:61346ms
+09:12:21.159 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Success: main   ,executing request http://www.goubanjia.com/ ,response statusCode:200  ,request cost time:127ms
+09:12:21.431 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Success: main   ,executing request http://www.xiaohexia.cn/ ,response statusCode:200  ,request cost time:247ms
+09:12:21.867 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Failure: main   ,executing request http://www.xicidaili.com/nn/1.html ,response statusCode:0  ,request cost time:331ms
+09:12:22.787 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Failure: main   ,executing request http://www.xicidaili.com/nn/1.html ,response statusCode:0  ,request cost time:878ms
+09:12:23.116 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Failure: main   ,executing request http://www.xicidaili.com/nn/1.html ,response statusCode:0  ,request cost time:282ms
+09:12:23.267 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Success: main   ,executing request https://proxy.mimvp.com/ ,response statusCode:200  ,request cost time:151ms
+09:12:24.068 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Success: main   ,executing request http://proxydb.net/ ,response statusCode:200  ,request cost time:798ms
+09:12:24.157 [INFO ] [ForkJoinPool.commonPool-worker-1] [com.cv4j.proxy.ProxyManager] checkProxy http://39.106.223.134:80, true
+09:12:24.396 [INFO ] [ForkJoinPool.commonPool-worker-2] [com.cv4j.proxy.ProxyManager] checkProxy http://159.203.61.169:3128, true
+09:12:26.719 [INFO ] [main] [com.cv4j.proxy.ProxyManager] checkProxy http://46.4.96.137:3128, true
+09:12:28.990 [INFO ] [RxCachedThreadScheduler-10] [com.cv4j.proxy.ProxyManager] accept http://46.4.96.137:3128
+09:12:28.991 [INFO ] [RxCachedThreadScheduler-10] [com.cv4j.proxy.ProxyManager] accept http://39.106.223.134:80
+09:12:28.992 [INFO ] [RxCachedThreadScheduler-10] [com.cv4j.proxy.ProxyManager] accept http://159.203.61.169:3128
+09:12:29.342 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Failure: main   ,executing request http://m.66ip.cn/2.html ,response statusCode:0  ,request cost time:352ms
+16:36:50.734 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Success: main   ,executing request http://www.data5u.com/ ,response statusCode:200  ,request cost time:60210ms
+17:01:52.965 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Success: main   ,executing request http://www.ip3366.net/ ,response statusCode:200  ,request cost time:93190ms
+17:03:54.143 [INFO ] [ForkJoinPool.commonPool-worker-1] [com.cv4j.proxy.ProxyManager] checkProxy https://171.35.142.221:9999, true
+17:03:57.288 [INFO ] [main] [com.cv4j.proxy.ProxyManager] checkProxy https://45.82.82.169:3128, true
+17:04:00.291 [INFO ] [RxCachedThreadScheduler-3] [com.cv4j.proxy.ProxyManager] accept https://171.35.142.221:9999
+17:04:00.292 [INFO ] [RxCachedThreadScheduler-3] [com.cv4j.proxy.ProxyManager] accept https://45.82.82.169:3128
+17:05:02.704 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Success: main   ,executing request https://list.proxylistplus.com/Fresh-HTTP-Proxy-List-1 ,response statusCode:200  ,request cost time:62414ms
+17:07:45.159 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Failure: main   ,executing request http://www.feilongip.com/ ,response statusCode:0  ,request cost time:72514ms
+17:08:19.461 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Success: main   ,executing request http://www.goubanjia.com/ ,response statusCode:200  ,request cost time:34301ms
+17:10:29.253 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Success: main   ,executing request http://www.xiaohexia.cn/ ,response statusCode:200  ,request cost time:57410ms
+17:12:38.173 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Failure: main   ,executing request http://www.xicidaili.com/nn/1.html ,response statusCode:0  ,request cost time:50672ms
+17:13:16.059 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Success: main   ,executing request https://proxy.mimvp.com/ ,response statusCode:200  ,request cost time:37884ms
+17:14:31.061 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Success: main   ,executing request http://proxydb.net/ ,response statusCode:200  ,request cost time:9797ms
+17:15:24.407 [INFO ] [ForkJoinPool.commonPool-worker-1] [com.cv4j.proxy.ProxyManager] checkProxy http://159.203.61.169:3128, true
+17:15:24.420 [INFO ] [ForkJoinPool.commonPool-worker-1] [com.cv4j.proxy.ProxyManager] checkProxy http://39.106.223.134:80, true
+17:15:27.368 [INFO ] [main] [com.cv4j.proxy.ProxyManager] checkProxy http://46.4.96.137:3128, true
+17:15:28.836 [INFO ] [RxCachedThreadScheduler-10] [com.cv4j.proxy.ProxyManager] accept http://46.4.96.137:3128
+17:15:28.836 [INFO ] [RxCachedThreadScheduler-10] [com.cv4j.proxy.ProxyManager] accept http://39.106.223.134:80
+17:15:28.837 [INFO ] [RxCachedThreadScheduler-10] [com.cv4j.proxy.ProxyManager] accept http://159.203.61.169:3128
+17:17:07.079 [INFO ] [main] [com.cv4j.proxy.task.ProxyPageCallable] Failure: main   ,executing request http://m.66ip.cn/2.html ,response statusCode:0  ,request cost time:98243ms
